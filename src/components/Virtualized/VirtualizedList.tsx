@@ -74,7 +74,7 @@ function VirtualizedList<T>(
 
         return (
           <VirtualizedItem
-            key={`item-${i}`}
+            key={`item-${index}`}
             top={`${itemHeight * i + list.offsetItem * itemHeight}px`}
           >
             {renderItem(el, index)}
