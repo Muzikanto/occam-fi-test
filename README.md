@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Occam.fi test task
+
+---
+
+[VirtualizedList.tsx](src/components/Virtualized/VirtualizedList.tsx)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

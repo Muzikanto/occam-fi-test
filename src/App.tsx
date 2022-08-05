@@ -26,7 +26,7 @@ function App() {
           ref={listRef}
           itemHeight={70}
           options={testRows}
-          spaceItems={6}
+          spaceItems={10}
           renderOption={(item, i) => (
             <div style={{ height: 70, display: "flex", alignItems: "center" }}>
               <img
